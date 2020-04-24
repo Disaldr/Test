@@ -1,3 +1,3 @@
 a = input()
 # Вывод
-print(a * 5)
+print(a * 4)
